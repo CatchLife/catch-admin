@@ -1,0 +1,1 @@
+export const CAPTCHA_TOKEN = 'CAPTCHA_TOKEN'
