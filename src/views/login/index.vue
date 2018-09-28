@@ -48,8 +48,8 @@ export default {
   data() {
     return {
       loginForm: {
-        mobile: '15038593728',
-        password: 'lx100861',
+        mobile: '12345678911',
+        password: '123456',
         remember: false
       },
       loginRules: {

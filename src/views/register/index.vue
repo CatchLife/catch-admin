@@ -3,7 +3,7 @@
     <el-card class="box">
       <div slot="header"
            class="header">
-        半亩塘-注册
+        Catch-Admin-注册
       </div>
       <div class="form">
         <el-form :model="regForm"
